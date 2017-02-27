@@ -1,2 +1,2 @@
 # InRest
-Final Year Project
+Final Year Project, implementation for Mobile End. Server end is 
