@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools">
+        <item
+            android:id="@+id/prevActv"
+            android:title="@string/prevActv"
+            app:showAsAction="never"
+            android:clickable = "false"
+            android:icon="@drawable/ic_arrow_back_black_24dp"/>
+        <item
+            android:id="@+id/viewPoints"
+            android:title="@string/viewProf"
+            app:showAsAction="never"
+            android:clickable="false"
+            android:icon="@drawable/ic_control_point_black_24dp"/>
+        <item
+            android:id="@+id/aboutPage"
+            android:title="@string/about_page"
+            app:showAsAction="never"
+            android:clickable="false"
+            android:icon="@drawable/ic_info_outline_black_24dp"/>
+        <item
+            android:id="@+id/logOut"
+            android:title="@string/logout"
+            app:showAcAction="never"
+            android:clickable="false"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+</menu>
