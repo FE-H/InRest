@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--App Info-->
+    <string name="app_name">InRestaurant</string>
+    <string name="prefName">uPref</string>
+
+    <!--Error messages-->
+    <string name="dialog_title">Invalid Input(s) Detected!</string>
+    <string name="resolveError">Please resolve all invalid input(s)!</string>
+    <string name="emptyInput">Empty Field is not allowed!</string>
+    <string name="combinationInvalid">Combination of a–Z and/or 0–9 and length greater than 8 characters</string>
+    <string name="combinationInvalidSize6">Combination of a–Z and/or 0–9 and length of exactly 6 characters</string>
+    <string name="confirmInvalid">Input given is not similar to password provided!</string>
+    <string name="newAndoldSame">New Password must be different from current password</string>
+    <string name="emailInvalid">Invalid email address!</string>
+
+    <!--Sidebar-->
+    <string name="logout">Logout</string>
+    <string name="viewProf">View Profile</string>
+    <string name="claimVch">Claim Voucher Code</string>
+    <string name="prevActv">Back</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Shared Preferences String-->
+    <string name="key0">isLoggedIn</string>
+    <string name="key1">uID</string>
+    <string name="key2">uName</string>
+    <string name="key3">isCheckedIn</string>
+    <string name="key4">checkedInRest</string>
+
+    <!--"About" String Values-->
+    <string name="about_page">About</string>
+    <string name="hofookeng_uca_gmail_com">hofookeng.uca@gmail.com</string>
+    <string name="_016_8717908">016–8717908</string>
+    <string name="cheese_ipsum">This app aims to find restaurants with the added information of vacancy.\nDeveloped by Ho Fook Eng, 2017, Univ ersiti Tenaga Nasional</string>
+
+
+    <!--Main Layout String Res-->
+    <string name="contentDesc">InRest</string>
+    <string name="uName">Username</string>
+    <string name="pWord">Password</string>
+    <string name="forgotPass"><u>Forgotten Password?</u></string>
+    <string name="loginBttn">Login</string>
+    <string name="sendMail">Send Reset Email</string>
+    <string name="rgstrBttn">Register Here</string>
+
+    <!--Login Error-->
+    <string name="failLogin">Login Failed. Please Try Again</string>
+
+    <!--Register Layout String Res-->
+    <string name="rgstrTitle">Registration</string>
+    <string name="uNameTxtVw">Username</string>
+    <string name="uEmail">Email</string>
+    <string name="uPwordTxtVw">Password</string>
+    <string name="uPword2TxtVw">Confirm Password</string>
+    <string name="submitBttn">Submit</string>
+
+    <string name="emptyField">Please Fill Up All The Required Information</string>
+    <string name="failRegis">Failed to register. Please try again</string>
+    <string name="succRegis">Successfully Registered</string>
+
+    <!--RestaurantInfo Layout String Res-->
+    <string name="failedCheck">Failed to Check In</string>
+    <!--Default url-->
+    <string name="defaultURL">sample.png</string>
+
+    <!--Sort String Values-->
+    <string name="txtVWPrompt">Sort By : </string>
+    <string-array name="sorting_type">
+        <item name="genericPrompt">Sorting Type</item>
+        <item name="alphaSortAsc">By Alphabetical Order (A-Z)</item>
+        <item name="vacantSortAsc">By Vacancies Available (Ascending)</item>
+    </string-array>
+
+    <!--Redeem Points Value-->
+    <string-array name="points_redeem">
+        <item name="10pts">10 pts for 5% discount</item>
+        <item name="30pts">30 pts for 10% discount</item>
+        <item name="50pts">50 pts for 15% discount</item>
+    </string-array>
+
+    <!--Sample text-->
+    <string name="action_settings">Settings</string>
+
+    <!--Coupon Strings-->
+    <string name="coupon_value">Coupon Value</string>
+    <string name="coupon">Coupon</string>
+    <string name="expiry_date">Expiry Date</string>
+
+    <!--ViewProfile Layout String res-->
+    <string name="view_profile">View Profile</string>
+    <string name="email">Email</string>
+    <string name="points">Points</string>
+    <string name="redeem_your_points">Redeem Your Points</string>
+
+    <!--ForgotPassword Layout String res-->
+    <string name="reset_code">Reset Code</string>
+    <string name="enter_reset_code">Enter Reset Code Here</string>
+    <string name="i_have_a_reset_code"><u>I have a reset code</u></string>
+
+    <!--ResetCode Layout String res-->
+    <string name="verify_code">Verify Code</string>
+
+    <!--NewPassword Layout String res-->
+    <string name="newPassword">New Password</string>
+    <string name="confNewPassword">Confirm New Password</string>
+    <string name="confirm_change">Confirm Change</string>
+    <string name="check_in_text">Check In</string>
+    <string name="check_out_text">Check Out</string>
+    <string name="developer_information">Developer Information</string>
+    <string name="contact_details">Contact Details</string>
+</resources>
+
